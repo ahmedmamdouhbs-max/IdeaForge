@@ -1,0 +1,34 @@
+# IdeaForge
+
+**A C++ Project Idea Generator for Computer Science Students**
+
+## About the Project
+IdeaForge is a console-based C++ application designed to help Computer Science students find suitable project ideas based on their interests and skill level.
+
+The program allows students to:
+- Browse a collection of project ideas
+- Filter ideas by category and difficulty
+- Search for specific ideas
+- Save favorite ideas for later
+
+## Features
+- Clean and simple menu-driven interface
+- Multiple project categories (Programming, Networks, AI, Games, Data, etc.)
+- Difficulty levels (Easy - Medium - Hard)
+- Ability to save favorite ideas
+- Well-organized and easy-to-understand code
+
+## How to Run
+1. Download or clone the repository
+2. Open `main.cpp` in any C++ compiler (Code::Blocks, Visual Studio, VS Code, etc.)
+3. Compile and run the program
+
+## Technologies Used
+- C++
+- Structs
+- Functions
+- Arrays
+- File Handling
+
+## Team
+Developed by a team of 7 first-year Computer Science students.
